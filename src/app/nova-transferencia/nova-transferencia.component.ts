@@ -1,9 +1,9 @@
 import { Component } from "@angular/core";
 
 @Component({
-    selector: 'nova-tranferencia',
-    templateUrl: './nova-tranferencia.component.html',
-    styles: ['./nova-transferencia.component.css']
+    selector: 'app-nova-tranferencia',
+    templateUrl: './nova-transferencia.component.html',
+    styles: ['./nova-transferencia.component.scss']
 })
 
 export class NovaTransferenciaComponent {
