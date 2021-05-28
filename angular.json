@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bytebank-angular"
+    }
+  },
+  "defaultProject": "bytebank-angular",
+  "cli": {
+    "analytics": false
+  }
 }
